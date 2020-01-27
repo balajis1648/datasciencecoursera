@@ -2,10 +2,6 @@
 title: "HelloWorld"
 author: "Balaji S"
 date: "26/01/2020"
-output:
-  html_document: default
-  pdf_document: default
- 
 ---
 
 
