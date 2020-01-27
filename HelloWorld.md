@@ -1,19 +1,6 @@
----
-title: "HelloWorld"
-author: "Balaji S"
-date: "26/01/2020"
----
+#Project on Data Science Tools in Coursera  
+## Balaji S
 
+## HelloWorld
 
-## This is a markdown file
-
-**Hello World**
-
-Comments:This is a project to be done for Coursera for "The Data Scientist's Toolbox" and this document is done for pushing a file onto github repository named **datasciencecoursera**.This is done to ensure proper understanding of the concept.
-
-
-
-
-- Creation of repository called datasciencecoursera  
-- Creation of HelloWorld.md  
-- Pushing the markdown file onto repository
+Comments:This is a project for data science tools in coursera where creation of a markdown file called HelloWorld.md and the pushing of the same into a github repository called datasciencecoursera.
