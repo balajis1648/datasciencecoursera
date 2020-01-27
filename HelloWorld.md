@@ -9,5 +9,5 @@ Comments:This is a project for data science tools in coursera where creation of 
 
 - **Creation of a markdown file**
 - **Staging and commit each file**
-- **Pushing the markdown file onto repo called *datasciencecoursera* **
+- **Pushing the markdown file onto repo called *datasciencecoursera***
 
